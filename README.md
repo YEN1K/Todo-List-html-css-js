@@ -6,6 +6,10 @@ HTML, CSS, JavaScript만을 사용하여 구현한
 
 ---
 
+## 🔗 Live Demo
+https://yen1k.github.io/Todo-List-html-css-js/
+---
+
 ## 📌 프로젝트 개요
 
 - **개발 목적**  
